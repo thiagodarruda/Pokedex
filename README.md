@@ -1,6 +1,6 @@
-# Pokedex
+## Pokedex
 
-Criada em HTML / CSS / JS, consumindo API do PokeApi.co
+Criada em HTML / CSS / JS, consumindo API do PokeApi.co 
 
 * Imagens em gif :heavy_check_mark:
 * Botões funcionais :heavy_check_mark:
